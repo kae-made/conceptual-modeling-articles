@@ -29,6 +29,8 @@
 - [第9回 : 概念モデリングにおける、二項リンクと関連リンク](https://www.veriserve.co.jp/helloqualityworld/media/20250321001/)
 - [第10回 : 圏Iのモデルを作ることと、人間が思考するということの関係性](https://www.veriserve.co.jp/helloqualityworld/media/20250418001/)
 - [第11回 : 概念情報モデル(Conceptual Information Model)](https://www.veriserve.co.jp/helloqualityworld/media/20250523001/)
+- [第12回 : 関連クラスがひも付いたリレーションシップ](https://www.veriserve.co.jp/helloqualityworld/media/20250620001/)
+  - is-a のリレーションシップも解説
 - 毎月一つづつ公開！ 次回をお楽しみに！
 
 
@@ -39,6 +41,7 @@
 
 ----------------------------
 ### History
+- 2025/06/21
+  - 第12回のリンクを追加
 - 2025/6/5
   - 1st Release.
-  
