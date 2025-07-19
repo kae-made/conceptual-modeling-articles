@@ -31,6 +31,7 @@
 - [第11回 : 概念情報モデル(Conceptual Information Model)](https://www.veriserve.co.jp/helloqualityworld/media/20250523001/)
 - [第12回 : 関連クラスがひも付いたリレーションシップ](https://www.veriserve.co.jp/helloqualityworld/media/20250620001/)
   - is-a のリレーションシップも解説
+- [第13回 ： “is-a”リレーションシップと特徴値による意味の厳密化](https://www.veriserve.co.jp/helloqualityworld/media/20250718001/) 
 - 毎月一つづつ公開！ 次回をお楽しみに！
 
 
@@ -41,6 +42,8 @@
 
 ----------------------------
 ### History
+- 2025/07/19
+  - 第13回のリンクを追加
 - 2025/06/21
   - 第12回のリンクを追加
 - 2025/6/5
