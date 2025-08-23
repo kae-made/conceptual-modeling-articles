@@ -33,6 +33,7 @@
 - [第12回 : 関連クラスがひも付いたリレーションシップ](https://www.veriserve.co.jp/helloqualityworld/media/20250620001/)
   - is-a のリレーションシップも解説
 - [第13回 ： “is-a”リレーションシップと特徴値による意味の厳密化](https://www.veriserve.co.jp/helloqualityworld/media/20250718001/) 
+- [第14回 : 概念情報モデルと圏Iのモデルとの関係](https://www.veriserve.co.jp/helloqualityworld/media/20250822001/)
 - 毎月一つづつ公開！ 次回をお楽しみに！
 
 
@@ -43,6 +44,8 @@
 
 ----------------------------
 ### History
+- 2025/08/23
+  - 第14回のリンクを追加
 - 2025/07/19
   - 第13回のリンクを追加
 - 2025/06/21
