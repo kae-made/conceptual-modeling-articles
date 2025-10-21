@@ -36,7 +36,8 @@
 - [第14回 : 概念情報モデルと圏Iのモデルとの関係](https://www.veriserve.co.jp/helloqualityworld/media/20250822001/)
 - [第15回 : 概念情報モデルの活用](https://www.veriserve.co.jp/helloqualityworld/media/20250924001/)
   - RDB スキーマや Digital Twins のオントロジモデルへの適用
-- 毎月一つづつ公開！ 次回をお楽しみに！
+- [第16回：概念情報モデルをもとに、圏Iのモデルを通じて、現実世界を観察する](https://www.veriserve.co.jp/helloqualityworld/media/20251017001/)
+- 毎月、一記事づつ公開！ 次回をお楽しみに！
 
 
 記事を書くにあたり、概念モデリングの基になっている [Shlaer‐Mellor 法（Executable and Translatable UML）](https://xtuml.org)に関する技術書だけでなく、哲学や数学（特に圏論）、論理学に関する多数の書籍群を参考にしています。
