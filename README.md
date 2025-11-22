@@ -37,6 +37,7 @@
 - [第15回 : 概念情報モデルの活用](https://www.veriserve.co.jp/helloqualityworld/media/20250924001/)
   - RDB スキーマや Digital Twins のオントロジモデルへの適用
 - [第16回：概念情報モデルをもとに、圏Iのモデルを通じて、現実世界を観察する](https://www.veriserve.co.jp/helloqualityworld/media/20251017001/)
+- [第17回：概念モデリングを習得しよう：概念情報モデルをもとに、圏Iのモデルを現実世界と整合をとる](https://www.veriserve.co.jp/helloqualityworld/media/20251121001/)
 - 毎月、一記事づつ公開！ 次回をお楽しみに！
 
 
