@@ -37,9 +37,13 @@
 - [第15回 : 概念情報モデルの活用](https://www.veriserve.co.jp/helloqualityworld/media/20250924001/)
   - RDB スキーマや Digital Twins のオントロジモデルへの適用
 - [第16回：概念情報モデルをもとに、圏Iのモデルを通じて、現実世界を観察する](https://www.veriserve.co.jp/helloqualityworld/media/20251017001/)
-- [第17回：概念モデリングを習得しよう：概念情報モデルをもとに、圏Iのモデルを現実世界と整合をとる](https://www.veriserve.co.jp/helloqualityworld/media/20251121001/)
+- [第17回：概念情報モデルをもとに、圏Iのモデルを現実世界と整合をとる](https://www.veriserve.co.jp/helloqualityworld/media/20251121001/)
+- [第18回：ドメインファンクションを構成する基本プロセスとアクション記述の要点](https://www.veriserve.co.jp/helloqualityworld/media/20251226001/)
+  - 現実世界の変化を記述する妥当なデータフローモデル
+- [第19回：圏Iの更新を「イベント」と「状態遷移」で読み解く、概念クラス別の状態モデル設計](https://www.veriserve.co.jp/helloqualityworld/media/20260130001/)
+  - 現実世界の変化を記述する妥当な状態モデル
+- [第20回：状態モデルで世界の変化を記述する、イベントと状態の整理法](https://www.veriserve.co.jp/helloqualityworld/media/20260424001/)
 - 毎月、一記事づつ公開！ 次回をお楽しみに！
-
 
 記事を書くにあたり、概念モデリングの基になっている [Shlaer‐Mellor 法（Executable and Translatable UML）](https://xtuml.org)に関する技術書だけでなく、哲学や数学（特に圏論）、論理学に関する多数の書籍群を参考にしています。
 詳しくは、”[玉石混交コラム集](https://note.com/kae_made/m/m12bb08458a18)”を読んでみてください。
@@ -48,6 +52,8 @@
 
 ----------------------------
 ### History
+- 2026/5/18
+  - 未記載のリンク追加
 - 2025/08/23
   - 第14回のリンクを追加
 - 2025/07/19
