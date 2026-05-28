@@ -43,6 +43,7 @@
 - [第19回：圏Iの更新を「イベント」と「状態遷移」で読み解く、概念クラス別の状態モデル設計](https://www.veriserve.co.jp/helloqualityworld/media/20260130001/)
   - 現実世界の変化を記述する妥当な状態モデル
 - [第20回：状態モデルで世界の変化を記述する、イベントと状態の整理法](https://www.veriserve.co.jp/helloqualityworld/media/20260424001/)
+- [第21回：状態モデルの作り方とUML図法の使い分け、概念モデリングの実践ポイント](https://www.veriserve.co.jp/helloqualityworld/media/20260527001/)
 - 毎月、一記事づつ公開！ 次回をお楽しみに！
 
 記事を書くにあたり、概念モデリングの基になっている [Shlaer‐Mellor 法（Executable and Translatable UML）](https://xtuml.org)に関する技術書だけでなく、哲学や数学（特に圏論）、論理学に関する多数の書籍群を参考にしています。
