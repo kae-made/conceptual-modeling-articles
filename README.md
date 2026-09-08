@@ -14,6 +14,8 @@
 - [IoT・Digital Twins を極めよう！](https://note.com/kae_made/m/m5f5f32fee80b)
   - IoT・Digital Twins、DX、AI を導入する際のポイントや要諦を徒然なるままに書き倒している技術コラム集。サービス実装の詳細解説は、Microsoft Azure ファーストです。
   - 旧：Azure の最新機能で IoT を改めてやってみる
+- [Ordo Forma Est - 存在論モデリングサロン](https://note.com/kae_made/membership)
+  - 世界を記述する普遍的な記述形式を探求する知的探究の場です
 
 ## ベリサーブから公開中の”【連載】概念モデリングを習得しよう"
 生成系 AI でドキュメントのまとめや文章があっという間に生成されたりCopilot でコードが自動生成できたりという時代が来ました。しかし、AI に問いを発するにしても、得た答えを理解するにしても、また、生成されたコードに問題がないかを判断するためにも、人間側にも見合った知識と理解力がなければなりません。ソフトウェア・システム開発だけでなく、ビジネスの遂行、日常生活をハッピーに過ごすことにおいても、物事を適切に認識し記述できることが重要な基盤であることは間違いありません。
@@ -44,6 +46,9 @@
   - 現実世界の変化を記述する妥当な状態モデル
 - [第20回：状態モデルで世界の変化を記述する、イベントと状態の整理法](https://www.veriserve.co.jp/helloqualityworld/media/20260424001/)
 - [第21回：状態モデルの作り方とUML図法の使い分け、概念モデリングの実践ポイント](https://www.veriserve.co.jp/helloqualityworld/media/20260527001/)
+- [第22回：生成・消滅型と巡回型の状態モデル、イベント駆動による振舞いの考え方](https://www.veriserve.co.jp/helloqualityworld/media/20260626001/)
+- [第23回：概念モデルのシミュレーションと状態モデルの実行セマンティクス](https://www.veriserve.co.jp/helloqualityworld/media/20260731001/)
+- [第24回：資源の競合を解決する「割当子」と状態遷移表、リファクタリングへの活用](https://www.veriserve.co.jp/helloqualityworld/media/20260826001/)
 - 毎月、一記事づつ公開！ 次回をお楽しみに！
 
 記事を書くにあたり、概念モデリングの基になっている [Shlaer‐Mellor 法（Executable and Translatable UML）](https://xtuml.org)に関する技術書だけでなく、哲学や数学（特に圏論）、論理学に関する多数の書籍群を参考にしています。
