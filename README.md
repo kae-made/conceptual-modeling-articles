@@ -49,7 +49,9 @@
 - [第22回：生成・消滅型と巡回型の状態モデル、イベント駆動による振舞いの考え方](https://www.veriserve.co.jp/helloqualityworld/media/20260626001/)
 - [第23回：概念モデルのシミュレーションと状態モデルの実行セマンティクス](https://www.veriserve.co.jp/helloqualityworld/media/20260731001/)
 - [第24回：資源の競合を解決する「割当子」と状態遷移表、リファクタリングへの活用](https://www.veriserve.co.jp/helloqualityworld/media/20260826001/)
-- 毎月、一記事づつ公開！ 次回をお楽しみに！
+- [第25回：概念モデルから考える、より良い「ユースケースモデル」](https://www.veriserve.co.jp/helloqualityworld/media/20260911001/)
+- [第26回（最終回）：概念モデルはなぜ検証できるのか？](https://www.veriserve.co.jp/helloqualityworld/media/20261008001/)
+- 2027/4 に新シリーズ始動します！
 
 記事を書くにあたり、概念モデリングの基になっている [Shlaer‐Mellor 法（Executable and Translatable UML）](https://xtuml.org)に関する技術書だけでなく、哲学や数学（特に圏論）、論理学に関する多数の書籍群を参考にしています。
 詳しくは、”[玉石混交コラム集](https://note.com/kae_made/m/m12bb08458a18)”を読んでみてください。
